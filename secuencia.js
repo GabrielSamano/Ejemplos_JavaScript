@@ -6,3 +6,6 @@ secuencia.push(50);
 console.log(secuencia)
 console.log(secuencia.pop())
 console.log(secuencia)
+
+
+
